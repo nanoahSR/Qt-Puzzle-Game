@@ -1,4 +1,4 @@
-#include "DlgPlaying.h"
+﻿#include "DlgPlaying.h"
 #include "ui_DlgPlaying.h"
 
 #include <QImage>
